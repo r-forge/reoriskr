@@ -1,0 +1,13 @@
+Package: GeoRiskR
+Type: Package
+Title: Data and functions for Geotechnical Risk Assessment 
+Version: 1.5
+Date: 2013-10-25
+Author: Xing Zheng Wu
+Maintainer: Who to complain to <xingzhengwu@gmail.com>
+Description: Data sets and functions for geotechnical reliability analysis 
+Depends: R(>= 2.10.0), fitdistrplus, copula
+License: GPL (>= 3)
+LazyLoad: true
+LazyData: true
+Suggests: MASS
